@@ -29,10 +29,20 @@ go get -u github.com/joho/godotenv
 go get -u golang.org/x/crypto
 
 ```
-## Creation du main 
+## Creation du main.go
 
 ```console
 touch main.go
 ```
 
+## creation de la contenerisation
 
+creation de Dockerfile
+
+```console
+touch Dockerfile
+```
+ 
+```console
+touch Dockerfile
+```
